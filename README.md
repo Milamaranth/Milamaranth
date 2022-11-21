@@ -1,16 +1,16 @@
-### Hi there 👋
+const anmol = {
+    pronouns: "She" | "Her",
+    code: ["Python", "Java", "PHP","Haskell"],
+    technologies: {
+        backEnd: {
+            java: ["Apache Maven","Hibernate","Spring","Junit","Reactive programming","Micro-servicies"],
+            python: ["Numpy","Pandas","Apache Spark"],
+        },
+        },
+        databases: ["mongoDB", "MySql", "MariaDB"],
+    },
+    currentFocus: "Book track telegram-friendly library manager",
+};
 
-<!--
-**Milamaranth/Milamaranth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to contact me: 
+https://www.linkedin.com/in/milagrosa-s%C3%A1nchez-carrero-b03b44237/
