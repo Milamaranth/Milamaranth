@@ -1,4 +1,6 @@
 const anmol = {
+    country: "Spain",
+    languages: "spanish","english","portuguese","french","german",
     pronouns: "She" | "Her",
     code: ["Python", "Java", "PHP","Haskell"],
     technologies: {
