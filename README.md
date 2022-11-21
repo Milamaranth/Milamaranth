@@ -10,6 +10,7 @@ const anmol = {
         databases: ["mongoDB", "MySql", "MariaDB"],
     },
     currentFocus: "Book track telegram-friendly library manager",
+    achivements: "Non-linear system numerical solving on SAGE"
 };
 
 How to contact me: 
