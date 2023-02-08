@@ -13,11 +13,12 @@ const msc = {
     country: "Spain",
     languages: "spanish","english","portuguese","french","german",
     pronouns: "She" | "Her",
-    code: ["Python", "Java", "PHP","Haskell"],
+    code: ["Python", "Java", "javaScript", "PHP","Haskell","HTML"],
     technologies: {
         backEnd: {
             java: ["Apache Maven","Hibernate","Spring","Junit","Reactive programming","Micro-servicies"],
             python: ["Numpy","Pandas","Apache Spark"],
+            javaScript: ["Node"]
         },
         },
         databases: ["mongoDB", "MySql", "MariaDB"],
