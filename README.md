@@ -11,20 +11,24 @@
 ```javascript
 const msc = {
     country: "Spain",
-    languages: "spanish","english","portuguese","french","german",
+    languages: ("spanish","english","portuguese","french","german"),
     pronouns: "She" | "Her",
-    code: ["Python", "Java", "javaScript", "PHP","Haskell","HTML"],
+    code: ["Python", "Java", "JavaScript", "TypeScript," "PHP","Haskell","HTML"],
     technologies: {
         backEnd: {
-            java: ["Apache Maven","Hibernate","Spring","Junit","Reactive programming","Micro-servicies"],
-            python: ["Numpy","Pandas","Apache Spark"],
-            javaScript: ["Node"]
+            java: ["Apache Maven","Hibernate","Spring","JUnit","Reactive programming","Micro-servicies"],
+            python: ["Numpy","Pandas","PySpark"],
+            javaScript: ["Node.js"]
         },
+        frontEnd: {
+            HTML: [],
+            typeScript: ["Angular"]
         },
-        databases: ["mongoDB", "MySql", "MariaDB"],
+        databases: ["MongoDB", "MySql", "MariaDB"],
+        others: ["Node-RED","lowCode","SQL"]
     },
-    currentFocus: "Book track telegram-friendly library manager",
-    achivements: "Non-linear system numerical solving on SAGE"
+    currentFocus: "lowCode development",
+    achievements: "Non-linear system numerical solving on SAGE"
 };
 ```
 
