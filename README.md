@@ -7,7 +7,9 @@
 
 ### Links interesantes:
 [Linkedin](https://www.linkedin.com/in/milagrosa-s%C3%A1nchez-carrero-b03b44237/)
+
 [HackerRank](https://www.hackerrank.com/profile/milajotasan)
+
 [Libro: Resolución numérica de sistemas de ecuaciones no lineales](https://github.com/Milamaranth/TFG-Metodos-Numericos.git)
 
 
