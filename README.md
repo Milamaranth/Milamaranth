@@ -6,9 +6,9 @@
 [![Linkedin: Mila Sánchez](https://img.shields.io/badge/-milasanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milagrosa-s%C3%A1nchez-carrero-b03b44237/)](https://www.linkedin.com/in/milagrosa-s%C3%A1nchez-carrero-b03b44237/)
 
 ### Links interesantes:
-[https://www.linkedin.com/in/milagrosa-s%C3%A1nchez-carrero-b03b44237/](Linkedin)
-[https://www.hackerrank.com/profile/milajotasan](HackerRank)
-[https://github.com/Milamaranth/TFG-Metodos-Numericos.git](Libro: Resolución numérica de sistemas de ecuaciones no lineales)
+[Linkedin](https://www.linkedin.com/in/milagrosa-s%C3%A1nchez-carrero-b03b44237/)
+[HackerRank](https://www.hackerrank.com/profile/milajotasan)
+[Libro: Resolución numérica de sistemas de ecuaciones no lineales](https://github.com/Milamaranth/TFG-Metodos-Numericos.git)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
